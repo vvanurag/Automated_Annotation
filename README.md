@@ -15,3 +15,6 @@ Automated Annotation using Grounded SAM and the likes
 Zero shot models
 Grounded models
 
+## Grounded SAM2 for automated annotation: segmentation and bounding box.
+
+## Install Grounded SAM
